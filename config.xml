@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<aws>
+		<useIAMrole></useIAMrole>
+		<access_key></access_key>
+		<secret_key></secret_key>
+	</aws>
+	<SdbToCloudSearch>
+		<cloudsearch>
+			<domain></domain>
+		</cloudsearch>
+		<simpledb>
+			<domain></domain>
+		</simpledb>
+	</SdbToCloudSearch>
+	<sqschat>
+		<queue>
+			<self></self>
+			<foreign></foreign>
+		</queue>
+	</sqschat>
+	<sqstweet>
+		<queue></queue>
+		<oauth>
+			<token></token>
+			<secrettoken></secrettoken>
+			<consumer_key></consumer_key>
+			<consumer_secret></consumer_secret>
+		</oauth>
+		<hashtag></hashtag>
+	</sqstweet>
+</configuration>
