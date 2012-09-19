@@ -1,0 +1,23 @@
+.      .....      .,,,:c,,;;,..      .::  .clloddxOddddd                    'olo
+.     ..;coxdddxxxxkO0OO0OOO0OOkkkkkkxdo  '.  .:;c;;...;                    '.  
+.     ...',,,,,,;:cccllloddl::::::::loo.  ',,,;llloc;;;:                    .:,,
+.     .....       .',,',,.',..      .;l.  :'',,llll:,,,:                    ,;''
+.     .....  .....,;ccc:::::;'.......:l.  '....;:;:....,                    ,...
+.     .,cdkxxxxkkkkkkOOOOOOOOkkkkkkO00x. 'c;::ldddolclc.                    c;::
+.     ..........',;;:::lloo:,'''''',::,' ;....cc:c,...;                    '....
+.    .....       ..'',',.....       '::  .;''':colc,,,:.                    .:''
+.    ...';,'',,,:lodddoooodoc;;;;;;;lo:. .c;::lddodccco.                    ,l;:
+.    .';ldxdxxxxxxkkkkkkkkkkkkkkkkkOkd;. ..   ',:,,   ..                    '   
+.     ....      ...''';:;:;..      .,c:.  'c::clldddcccc                   ':;:c
+.    .....       ..,;;;,..,..       ,l,.  .;.'':locc,'':.                  :.'',
+.   .';cllcccclldxkkkxdxkkxoooooooodkx:    ,...';c::'..'.                  '....
+.  ..,:c::ccccclloolododdooooooooddd,':o'  ;:::lodoxcccc:                  .:;::
+.   ....      ...,;;;:;,'..      ..'.      '.   ;,:;'   ;                   ,   
+.  .....      .',;;;,,',,..      .,,.     .;,;;llddo:::l'                  .,,;;
+.  .',:odxxxxkOOkOOOO00OOOOOkkkkkOkc'     ,;,,;looll;;;c.                  c,,,;
+.   ..',;,''',,,,:c::clllol:;;;;;;:,.     '   .;:;;.....                  '.   ;
+.    ....      ...';:,;;'...       .'.    ::::cooodlccco.                 .::::l
+.   ...........':clllcc:cl:'......'cc.    ,....c:::,...oo:                 ,....
+.   .';cddddddxxxxkkkkOOkOkkkkkkkkkk:      ...............                  ....
+.    ..''........,;;;:lccc;,..........                                          
+.    ....      ...';:,,;'...       .'.                                          

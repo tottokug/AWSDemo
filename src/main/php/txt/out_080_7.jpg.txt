@@ -1,0 +1,51 @@
+;                                                                                                                                                                                    
+;                                                                                                                                                                                    
+;                                                                                                                                                                                    
+;                                                                                                                                                                                    
+;                                        ...',,;;:::::,                                                                                                                              
+;                            .';:cccccc::;,'....     .lllllooooooooooooooooooooollc;'.                                                                                               
+;                      .;lllc;'.                                                  ..,:lool'                                                                                          
+;                    .oc.                                                                .:o                                                                                         
+;                    d'                                                                   ,O                                                                                         
+;                    xcool:'..                                                     ..,cooo,d                                                                                         
+;                 .,cK.   .,:clooooooolllccc::;;;;,,,,,''''''''',,,,;;;:cclloooooool:,.    o                                                                                         
+;             .;lxxdcK.                  .......'''''',,,,,,,,,,,,''''.....                d                                                                                         
+;          'cxxdc,.  O.                    ;.                                              d                                                                                         
+;       ,lxxo;.      0.                   ,ld..                                            k:.                                                                                       
+;    .cxxd;.         0.                 ':kclkx;.xoxox..odx. ':l0; ld'.ddx.                kcdo,                                                                                     
+;  'oxxl.            0.                 .l.   o, o c..:.ddll  ;x. ;..o'l ,,                k  'ld:.                                                                                  
+:,oxd:.              0'                  c     : o l..o.kccO'dKc,;'o,o'o ;,                k    .cd:.                                                                                
+xxd;                 0'                  .       . .  .  ''....';, .;. .                   k.     .cxc.                                                                              
+x:                   K'              ,;::.                           ;;::. 'ooo.           k.       .cx:.                                                                            
+.                    K'              :  .l'       .  ..    . ..      :  .l'.c .d           k.         .ld;                                                                           
+                     K'              :    ll  .;cxoc.ldk'.klkll;.ox: c    l'0xOx           k.           'do.                                                                         
+                     K'              :    l'o.d.': l.xlcl l c. l;. :,c    l.o  ,d          k.             ;d;                                                                        
+                     X.              c..,d, .0o '; o.xod0'o c. d.dcd.o..'dc;d.,ld          O.              .oo.                      ....                                            
+                     X.              :cl:.  .d.       ..       .  .. :ll:..lol:'           O.                :d.            .',;;;;;;;;;::clool:,..                                  
+                     X.                  '';x.                                             k.                 .o'      .'','.                 ..,codl;.                              
+                     N.                  .c;                                               k.                  .l. .''..                            ':dxl'                           
+                     N.                                                                    k.                    ,..                                   .;od:.                        
+                     N.                                                                    k.                                                             .cxc.                      
+                     N.                                                                    k.                                                               .cd;                     
+                     N.                                                                    k.                                                                 .lo.                   
+       ...           W.                                                                    k.                                                                   ,d:                  
+      '. .''.        W.                                                                    k'                                                                    .ll                 
+      '     ..      .W.                                                                    k'                                                                      :o.               
+       '.    '      .W.        ..,':,;.                                                    k'                                                                       ;o.              
+         .''.       .W.    ....      .;:d:.                                                x'                                                                        ;o              
+     ;,,,,',,,:     .W.   '.             ;kl                                               x,                                                                         :c             
+   'l;        :l'   .W.  ,                 kx                                              x,                                                                          l.            
+  c, '    ..  , ,:  .W. '.                 .X:                                             x,                                                                          .l            
+ :'  ..       ,  l. .W. ,                   0x                                             x,                                                                           ;.           
+  ;,  '       ' c.  .W. ,                  .Kc                                             x,                                                                           .;           
+   .o,:      .lx.   .W. .,        .        d0.                                             x,                                                                            ;           
+    c.O......;x:.   .W.  .,.      .      .xx.                                              d,                                                                            ........... 
+     .:......:.     .W.    ....   ;.  .'od'                                                d,                                                                                    ...'
+      '      '      .W.       .'';':,::.                                                   d,                                                                                        
+      ,      '      .W.         ,:::;;;;;;;;;,,,,,;;,,;;;;;;;;;:;;::::::::::::::::.        d,                                                                                        
+      ,      ,      .W.        o,;:,.o.'c:..o.::'.o'.::..l.;:;.o..::.;c.;:;.d..c:'c,       d,                                                                                        
+      ,      ,      .W.       .c,. .,c.,..:,c;. .'l.,..;.:'. .;c.;. ;.l'. .;:;;  ,.o       o,                                                                                        
+      c''.   ,...    N'       .o,'.',l.;..:.l;..,'o.;..:.:',..;l.;..:'o',..;c,:..:'o       o,                                                                                        
+     .:,;:.  ccclc   0'        ;o;c;.ll'c:'.x.;c,.ll.::''o.,c;.k..:c'ol.,c:'O'';:,x.      .o.                                                                                        
+                     .;;,.      .',,,,;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,''    .,clc.                                                                                         
+                        'okkdc;'..                                              ..:oOKOc.                                                                                            

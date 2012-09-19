@@ -1,0 +1,51 @@
+Xl.   .cdOXNWWWXc       :ONWWWMMMMMMMMX;     ....      .x0,.:kXNNO.                    'Mo            .KX. d;           'c ;Oo..ONNXx;     oXWWWWXOo;.   .cxo,:NMWKxlkWMMMXkc.       
+Wk;   ;xXNNWWMMMMO.      ,ooddddxONMWKx;   .:x0KKk;     xMNdKWWWMMk                    'Md             xW;.Xx.         .Xl lXKxXMMMWNx'   oWMMWWNWWXkc.  .lkOKWMMWNXNMMWK00ko,    .:k
+OOl.  .;lc;'',cOWMO'            'l0Xk:.   .dKWMMMMMK'    OMWKxc;lWM'                   .Mx             lMl.0N:         0N' .lXMM0l;cOKc  .lxl,'',:oOKOc.  .lOWNx;,cxXKl. .cdo:.  ,kWM
+lxo'    ..';cllcoKKl          .:kXKo'     lKx,;coOWMW;   'NX'    dMl                   .Wk             cMo cW0,       dMk   .kWl    cKd.      ':llokKXd'   ,xO:   .lxo'   ,ooc. ,d0Ol
+cxd,   .cxKNWMMWMWXo.        ,dKNk:.     .k0,     .kMW'  .KX.    ;Wx                   .WO             cMo .kW0'     ,WW'   .xN:    ;Kk.   .dNMMMMMWWNk,   'dk:   .:do,   'ldl..:ol, 
+:dd;  .l0NXKkdl::kKd.      .cONXd,       .OO.       dMk  .KX.    ;Wk                   .W0             lMo  .OW0;   .XMx     xN:    ;KO.  'KMMWKko:,ckk;   'dk:   .cxd,   .ldl'.:lc' 
+;dx:. ,xOd:..    :Ox'     ,oKN0l.        .kN,       'N0. .XX.    cMx                    NK             OMc   'OWXl. xMX.    .kN:    :Xk.  oWNo.     'xk:   'dk:   .ckd,   .cdo,.:cc;.
+;dxc. 'xNk'      ;OK:   .:kNWk;.          cW0.      lWk. .XX.    oMd                    NK            ;WW.    'kWWkxWMl     .kN:    cNk. .oXOc.     .d0o.  ,xk:   .lkd'   .cdd;.,lol,
+,dkl.  cXMMXkoloxOXMNo..l0WMMW0dc;'..';:. .OMXl...,oXN:  .XX.    dMd                    NX          .oWMk      .oNMMMK.     .ON:    lNk.  ;kNNKkdlld0WMKd;.,xk:   .okd'   .:dd:..cdkd
+,oko.   :KMMMMMMMMWMMWxo0MMMMMMMMMMWWWWMO. .0MMMNNWMNo.  'NX.    oMx                    NN'...'',:o0WMM0.        ;XMMX;     .ON:    cXk.   ,xXWMMMMMMMMWNk::xO:   .lxo'   .:dx:. 'ckK
+.cdl.     ;d0XXX0kl:lko;lkocclx0NWMMMWNO:    cKWMMWKl.   .K0.    .0:                   :MMWWWWWMMMMMMXl          ;WMNK'     .dK'    ,xc     .,lkKXXX0o;cxl',oo'    ;:'     ;ol,   .;o
+   .                             ..'''..       .''..      ..                           :MNXNWWWNNKkl'           .KMO.        ..                                                      
+                                                                                       .l.  ....                dMN.                                                                 
+                                                                                                               cWWc                                                                  
+                                                                                                              oMMO                                                                   
+                                                                                                     ,,.   .cKMMX.                                                                   
+                                                                                                    .WMWNNNMMMM0.                                                                    
+                                                                                                     lNMMMMMMK:                                                                      
+                                                                                                      .;lll;.                                                                        
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                       ...                      ...                                                                                                  
+                                               ..,coxOKK0KKOdl;'.       .';ldk0XK0KKOxl:'.                                                                                           
+                                             .'cdOKXXXX00KXXXK0kl' . ...cdOKXXXXK0KKKXKOdc...                                                                                        
+                                            ,OKOdlccccoxkxl::::ldkK0.cKKkdlccccoxkdc::::ox0K0.                                                                                       
+                                            ,OK0OOkkkdx:.lkk0OkKKKO0.cK0OOkkOOok; o0kKOOKXX00.                                                                                       
+                                            ,O0kxxk0O0Kd.k0O0O0XX000.lK0kkkOKkKKo.KK0K0KXXKK0                                                                                        
+                                            ,OOkxOKK0xOd.xO0O0KXK0O0.cK0OOKKKKkKo.00X0KXXXKOO                                                                                        
+                                            ,O00KK0xdO0d.kK0OKXKkk00.cKK0XXKkxKKo.KXKKXXK0O0O                                                                                        
+                                            ,O00KkoxO0Kd.kKOKXKkkk00.cX00Xkx0KKXo.KKKXXK00OKO                                                                                        
+                                            ,0KOdkOO0KXo.xk00KKKkx0O.cXX0k0KKKXXl.0OXKXKKOOKk                                                                                        
+                                            .';lxO000KKl.kK0OKKOdc,  .';lx0KKKXKl.KXKKXKkl:.                                                                                         
+            .':ldk0Okdc;..           .':ldO0Okdl:,'';cl'.dxl;.             ..;cl' ddc,.                                                                                              
+        .;d0XXXXXK00KXXXXKOc.    .,d0XXXXXK00KXXXXX0c.                                                                                                                               
+      .;odlccloxO0KKKOoc::;coxc'ckdlcccldk0KKKkoc::;cdko         .cd0KXXXKko,     .cloo; :x000xc. .okk0Oxc       .cxOKXXK0Od,     .lddxxxxxxxkkx;     .;ldkkkdc.     .:lol;,;lxOOxl'.
+      .lOK00Okxoc:;';cdkO0KKKOl,lKK00Okxocc,.;loOO0KKK0d       .xXXNNNNWXXNWWO.   :XWX0KXNNNXXXWKxNXKNWNWN0.   .oXWWWNNKXNNNNO.   ,OKKXNXKO0XNNXo.  ;xKXKXNNXXXKx,   ;xXXKKKKXXKKKKOl
+      .ckOkxxkxkOkllk0OO0KXK0Ol,l0Okxxkkx00:;00OOO0XKOKd       xXNNNXdloOWNWWXo   :X0XWWNNNXXNNNNXKXNWWNKKNd   dNWNNXkllONNXKXx.  .o0000KXNNNNN0c..:kKXXKOxx0XXXXk:. ;d0KKKXXXXXKXX0d
+      .ckkxxO000OxllxO0O0KXK0Ol,lOkxxOK00Ok:;kO0O0XXK00d       oOO0k.   .0NKKNk   :XWWNNl. .0NNXKXl. '0XNNNx   cO0KO,   .xKXNNk.       .dXNNXKx;. ,dKXXKo'  .lKKKKd,.,o0KK0d;.'lOKK0d
+      .ck00KK0kxkxllx0O0KXKOOOl'cOO0KK0kdOO;;OKO0XXKOk0o         .cdk0KNNXXNNXk   :NNWXK.   lXXNWK    xNNNXd     .cdk0KKKNNNNNx.      ;ONNXX0o'  .:0NNNO:.   ;xKXXOc';d0XKx:. .;o0K0d
+      .cO000kdxO0kllk00KX0kkO0l'l000Kkox000;;000KXKkkOKl       'ONWWWWNX0NNXNNx   :NXXNK    lNWNN0    xNNKXd   'kNNXNWXKKNNNXKd.    .l0NXXKkc.   .lKNXXk;    ;kXXXOc,;dKK0d;. .;o0K0d
+      .cOKOdxO0KKkccdO0K00OkO0l'l0KOdxOO0K0;,kkKKK00kkKc      'XNWNNO,.  ONNKXk   :XNNNK    oWNNXO    xKXWNd  '0NNNNO:. .xXKXXx.   ,xXXXXXk:.     c0XXKO:.  .:kXXKx:';d0KKd:. .;o0K0d
+      .:odkO0000KxccxKOOKK0Oxc..:odx0000KXO;,OKOOKK0kd:.      oWNNNK.   ;NKXNX0.  :NXNNK    oNXXN0    xNNNNd  :XXNXK,   ,OXXXX0'  :OXXXXXNNNK0kl. 'xKXXKo.  'lOKK0o,.,o0KKx:. .;d0K0d
+          ..,:oxxl,:k0xoc:::cokkxdlc::coxkd.,O0xo:'.          cXNXXN0olxKXWXXNXO. :NNXXK    lXNXX0    xNNXXd  ;XXXNNXdlxKNXXKKK0..xXXKXXXXXXXXNXk' ;0XXXX0xxk0KK0x:. ;dKXKx:. .;o0K0d
+                   ..'cx0XXXXX0OKXXXK0ko'   ..                .xKNNXNWXXWK0NXXNk. :XXNWX    lNNNN0    kXXXNd   dNWNNXXXNXOKXKXXk,.dXKK0OkkkOKXNXx'  'kXXXXXXKXKOd;.  ;dKK0d;. .;d0KKd
+                   .cdlllodkO00KXKOxl:;;:oo'                    ;dk0KOko' .cOo.   .kOOkl    'kO0Ol    :kOOkc    'oO00Oxl,. ;kd,.  .:,.        .;;.    'lk0KK0ko;.    .:xkxl,.  .;dOxl
+                   ;kKK0kxdolcc;,:coxk0KK0k'                                              oOx.                                                  ,od;                                 
+                   ;x0Okxxkxk0l;xKkOO0KX0Ok.                                              0XX.                                                  ;0Xx,                                
+                   ;xOxxk00K0kl:dO00OKXK00x.                   .lc.  .lc.   :o. 'lkOOx:.  0XXloxdl'      .:oodl;    .,codl;   ':,':l,,c:.    ,:''lx:. .;cll:.    .,:ool,    .,:loo:. 
+                   ;xOO0KK0dxOl:d00OKXX0kOx.                   lNXl  xKXo  cNXcdKKKO0XN0, O0KX00XXKk    l0NXKXNXK. ;OK0OXXKK:.xXXXNNOkKXk.  ,d0xdx0o::x00KKXXd..;oO00KXX0:.,lk00KKK0o
+                   ;xK0KKdoO0Ol:dK0KXXOkO0x.                   .kKO.'KXKO..OK0xKXK;.'xXX0.OK0x...OXKo  .KXKo.'o00l;k0Ol,.l000cdKKOo:''xK0c .l0OccxOxodOd:';kK0ocoOOo:,lOKkdldOxc,:dkd
+                   ;x0KKcxOOKKo:d0kKX0OOk0x.                    oK0;dX0KNc;NNd0XKKKK0XNO0;O00;   ,KX0  .KKKXOdll,.cOOXOxxdk00kxKKl.   :00x.,xKd,;xOxdkkc.  .dOxxxKXKOxxxOOoddOKN0d;..
